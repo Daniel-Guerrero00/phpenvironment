@@ -12,6 +12,10 @@
     <h1 class="blue">Intro to PHP</h1>
     <div><a href="strings.php">Strings</a></div>
     <div><a href="dates.php">Dates</a></div>
+    <div><a href="constants.php">Constants</a></div>
+    <div><a href="functions.php">Functions</a></div>
+    <div><a href="ifstatments.php">If Statments</a></div>
+    <div><a href="oop.php">OOP</a></div>
 </body>
 
 </html>

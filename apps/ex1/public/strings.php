@@ -15,7 +15,7 @@
     $name = "Daniel Guerrero";
     $campus = "Moncton";
     $course = "Software Development";
-    $message = "My name is ". $name . " and I am a " . $course . " student at NBCC " . $campus . " and I am studing PHP.";
+    $message = "My name is " . $name . " and I am a " . $course . " student at NBCC " . $campus . " and I am studing PHP.";
     $messageStringInterpolation = "My name is $name and I am a $course student at NBCC $campus and I am studing PHP.";
     ?>
     <h1>Using string concatenation with the dot operator</h1>
